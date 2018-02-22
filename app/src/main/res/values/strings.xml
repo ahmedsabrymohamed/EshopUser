@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LAخBtA</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="sign_in_request_connected">Please Sign in to continue</string>
+    <string name="sign_in_request_not_connected">Please Check your Internet connection and try Again</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_register">Sign Up</string>
+    <string name="suggested_product">suggested Product</string>
+    <string name="sign_up_action">Sign Up</string>
+    <string name="low_range_product">Low Range Product</string>
+    <string name="high_range">High Range</string>
+    <string name="midum_range">Midum Range</string>
+    <string name="rate_it">Rate IT</string>
+    <string name="select_a_category_you_want_to_add_product_to_it">Select A Category you Want to add Product To it</string>
+    <string name="mange_application">Mange Application</string>
+    <string name="mange_comment">Mange Comment</string>
+    <string name="add_category">Add Category</string>
+    <string name="add_product">Add Product</string>
+    <string name="no_trend_here">No Trend Here</string>
+</resources>
